@@ -1,4 +1,4 @@
-# Content Staleness Prediction — FlyRank Internship
+# Content Staleness Prediction
 
 Predicts which web pages need a content refresh first, using a mix of raw
 search-performance metrics and custom-engineered features (momentum,
